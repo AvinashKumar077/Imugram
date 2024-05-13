@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Imugram</string>
+    <string name="hello">Hey There,</string>
+    <string name="create_account">Create an account</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="username">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password\n</string>
+    <string name="show_password">Show Password</string>
+    <string name="terms_and_conditions">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="terms_and_conditions_header">Term of Use</string>
+    <string name="register">Sign Up</string>
+    <string name="dob">DOB</string>
+    <string name="go_to">Already have an account? Login</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot your password</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log Out</string>
+</resources>

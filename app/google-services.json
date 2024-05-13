@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169446099843",
+    "project_id": "imugram-a7a57",
+    "storage_bucket": "imugram-a7a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169446099843:android:2856db726d31f42863c4b6",
+        "android_client_info": {
+          "package_name": "com.example.imugram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9zWpFMh7W32p_OBM7iNDoiKbywZorw9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
